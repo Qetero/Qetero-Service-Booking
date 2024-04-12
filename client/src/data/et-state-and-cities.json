@@ -1,0 +1,1822 @@
+[
+  {
+    "id": 11,
+    "name": "Addis Ababa",
+    "state_code": "AA",
+    "latitude": "8.98060340",
+    "longitude": "38.75776050",
+    "type": null,
+    "cities": [
+      {
+        "name": "Abacoran Sefer",
+        "latitude": "9.0404672",
+        "longitude": "38.7399483",
+        "id": "AA_1"
+      },
+      {
+        "name": "Abadina Area",
+        "latitude": "9.0535999",
+        "longitude": "38.7346257",
+        "id": "AA_2"
+      },
+      {
+        "name": "Abenet",
+        "latitude": "9.0204147",
+        "longitude": "38.7333487",
+        "id": "AA_3"
+      },
+      {
+        "name": "Addis Ketema",
+        "latitude": "9.0386175",
+        "longitude": "38.7289821",
+        "id": "AA_4"
+      },
+      {
+        "name": "Addis Ketema",
+        "latitude": "9.0236913",
+        "longitude": "38.7337122",
+        "id": "AA_5"
+      },
+      {
+        "name": "Addis Seffer",
+        "latitude": "8.9568711",
+        "longitude": "38.7715494",
+        "id": "AA_6"
+      },
+      {
+        "name": "Addisu Gebeya",
+        "latitude": "9.0595918",
+        "longitude": "38.7372656",
+        "id": "AA_7"
+      },
+      {
+        "name": "Agusta",
+        "latitude": "9.0059158",
+        "longitude": "38.7171957",
+        "id": "AA_8"
+      },
+      {
+        "name": "Akaki-Kality",
+        "latitude": "8.9013695",
+        "longitude": "38.8003557",
+        "id": "AA_9"
+      },
+      {
+        "name": "Amanuel Area",
+        "latitude": "9.0279524",
+        "longitude": "38.7230932",
+        "id": "AA_10"
+      },
+      {
+        "name": "Ambassador",
+        "latitude": "9.0183054",
+        "longitude": "38.7540338",
+        "id": "AA_11"
+      },
+      {
+        "name": "American Gibi",
+        "latitude": "9.0323031",
+        "longitude": "38.7423939",
+        "id": "AA_12"
+      },
+      {
+        "name": "Arat Kilo",
+        "latitude": "9.0329132",
+        "longitude": "38.7633682",
+        "id": "AA_13"
+      },
+      {
+        "name": "Aroge Kera",
+        "latitude": "9.0264074",
+        "longitude": "38.7547127",
+        "id": "AA_14"
+      },
+      {
+        "name": "Aserasement",
+        "latitude": "9.0338161",
+        "longitude": "38.7144094",
+        "id": "AA_15"
+      },
+      {
+        "name": "Asko Area",
+        "latitude": "9.0659100",
+        "longitude": "38.6934573",
+        "id": "AA_16"
+      },
+      {
+        "name": "Asko Bercheko Faberika Area",
+        "latitude": "9.0631791",
+        "longitude": "38.6991733",
+        "id": "AA_17"
+      },
+      {
+        "name": "Atekelet Tera",
+        "latitude": "9.0344589",
+        "longitude": "38.7480673",
+        "id": "AA_18"
+      },
+      {
+        "name": "Atena Tera",
+        "latitude": "9.0408902",
+        "longitude": "38.7141030",
+        "id": "AA_19"
+      },
+      {
+        "name": "Autobus Tera",
+        "latitude": "9.0339819",
+        "longitude": "38.7322364",
+        "id": "AA_20"
+      },
+      {
+        "name": "Aware",
+        "latitude": "9.0270604",
+        "longitude": "38.7754628",
+        "id": "AA_21"
+      },
+      {
+        "name": "Ayat",
+        "latitude": "9.0345734",
+        "longitude": "38.8460555",
+        "id": "AA_22"
+      },
+      {
+        "name": "Ayertena",
+        "latitude": "8.9835747",
+        "longitude": "38.6971482",
+        "id": "AA_23"
+      },
+      {
+        "name": "Beg Tera",
+        "latitude": "8.9977138",
+        "longitude": "38.7478578",
+        "id": "AA_24"
+      },
+      {
+        "name": "Beherawi",
+        "latitude": "9.0165434",
+        "longitude": "38.7523203",
+        "id": "AA_25"
+      },
+      {
+        "name": "Bekelo Bet",
+        "latitude": "8.9982814",
+        "longitude": "38.7582132",
+        "id": "AA_26"
+      },
+      {
+        "name": "Berberee Berenda",
+        "latitude": "9.0262767",
+        "longitude": "38.7405066",
+        "id": "AA_27"
+      },
+      {
+        "name": "Besrat Gebriel",
+        "latitude": "8.9918958",
+        "longitude": "38.7264037",
+        "id": "AA_28"
+      },
+      {
+        "name": "Biss Meberat",
+        "latitude": "9.0345449",
+        "longitude": "38.7458856",
+        "id": "AA_29"
+      },
+      {
+        "name": "Bole",
+        "latitude": "8.9867182",
+        "longitude": "38.7933956",
+        "id": "AA_30"
+      },
+      {
+        "name": "Bole Ayat",
+        "latitude": "9.0384153",
+        "longitude": "38.8623947",
+        "id": "AA_31"
+      },
+      {
+        "name": "Bole Mikael",
+        "latitude": "8.9809385",
+        "longitude": "38.7749415",
+        "id": "AA_32"
+      },
+      {
+        "name": "Bomb Tera",
+        "latitude": "9.0293030",
+        "longitude": "38.7396551",
+        "id": "AA_33"
+      },
+      {
+        "name": "Bulgariya Mazoriya",
+        "latitude": "8.9944519",
+        "longitude": "38.7479297",
+        "id": "AA_34"
+      },
+      {
+        "name": "Ched Tera",
+        "latitude": "9.0247142",
+        "longitude": "38.7375003",
+        "id": "AA_35"
+      },
+      {
+        "name": "Chew Berenda",
+        "latitude": "9.0369688",
+        "longitude": "38.7382200",
+        "id": "AA_36"
+      },
+      {
+        "name": "Chid Tera",
+        "latitude": "9.0375307",
+        "longitude": "38.7213287",
+        "id": "AA_37"
+      },
+      {
+        "name": "Cinima Ras",
+        "latitude": "9.0307801",
+        "longitude": "38.7412116",
+        "id": "AA_38"
+      },
+      {
+        "name": "Coca",
+        "latitude": "9.0165367",
+        "longitude": "38.7299650",
+        "id": "AA_39"
+      },
+      {
+        "name": "Darmar",
+        "latitude": "9.0141665",
+        "longitude": "38.7342329",
+        "id": "AA_40"
+      },
+      {
+        "name": "Datsun Sefer",
+        "latitude": "9.0434883",
+        "longitude": "38.7473538",
+        "id": "AA_41"
+      },
+      {
+        "name": "Doro Manekiya",
+        "latitude": "9.0346358",
+        "longitude": "38.7542501",
+        "id": "AA_42"
+      },
+      {
+        "name": "Doro Tera",
+        "latitude": "9.0272063",
+        "longitude": "38.7361886",
+        "id": "AA_43"
+      },
+      {
+        "name": "Dubai Tera",
+        "latitude": "9.0313013",
+        "longitude": "38.7382330",
+        "id": "AA_44"
+      },
+      {
+        "name": "Enderase",
+        "latitude": "9.0175028",
+        "longitude": "38.7763783",
+        "id": "AA_45"
+      },
+      {
+        "name": "Enqulal Faberika",
+        "latitude": "9.0490243",
+        "longitude": "38.7376280",
+        "id": "AA_46"
+      },
+      {
+        "name": "Eri Bekentu",
+        "latitude": "9.0292242",
+        "longitude": "38.7599768",
+        "id": "AA_47"
+      },
+      {
+        "name": "Ferash Tera",
+        "latitude": "9.0309941",
+        "longitude": "38.7406051",
+        "id": "AA_48"
+      },
+      {
+        "name": "Gedam Seffer",
+        "latitude": "9.0389427",
+        "longitude": "38.7502818",
+        "id": "AA_49"
+      },
+      {
+        "name": "Geja Seffer",
+        "latitude": "9.0173623",
+        "longitude": "38.7383996",
+        "id": "AA_50"
+      },
+      {
+        "name": "Gerji",
+        "latitude": "8.9967917",
+        "longitude": "38.8079535",
+        "id": "AA_51"
+      },
+      {
+        "name": "Giorgis",
+        "latitude": "9.0359666",
+        "longitude": "38.7523813",
+        "id": "AA_52"
+      },
+      {
+        "name": "Gojjam Berenda",
+        "latitude": "9.0349351",
+        "longitude": "38.7399116",
+        "id": "AA_53"
+      },
+      {
+        "name": "Golla Mikael",
+        "latitude": "9.0259220",
+        "longitude": "38.7478132",
+        "id": "AA_54"
+      },
+      {
+        "name": "Goma Kuteba",
+        "latitude": "9.0166053",
+        "longitude": "38.7462864",
+        "id": "AA_55"
+      },
+      {
+        "name": "Goma Tera",
+        "latitude": "9.0276802",
+        "longitude": "38.7404567",
+        "id": "AA_56"
+      },
+      {
+        "name": "Gotera",
+        "latitude": "8.9820782",
+        "longitude": "38.7584682",
+        "id": "AA_57"
+      },
+      {
+        "name": "Habete Giorgis",
+        "latitude": "9.0340299",
+        "longitude": "38.7435406",
+        "id": "AA_58"
+      },
+      {
+        "name": "Hadere Sefer",
+        "latitude": "9.0279243",
+        "longitude": "38.7391692",
+        "id": "AA_59"
+      },
+      {
+        "name": "Jemo",
+        "latitude": "8.9599006",
+        "longitude": "38.7115288",
+        "id": "AA_60"
+      },
+      {
+        "name": "Jos Hanssen",
+        "latitude": "9.0190785",
+        "longitude": "38.7349582",
+        "id": "AA_61"
+      },
+      {
+        "name": "Kara Alo",
+        "latitude": "9.0392915",
+        "longitude": "38.8513369",
+        "id": "AA_62"
+      },
+      {
+        "name": "Kazanchis",
+        "latitude": "9.0159277",
+        "longitude": "38.7712221",
+        "id": "AA_63"
+      },
+      {
+        "name": "Kebena",
+        "latitude": "9.0346353",
+        "longitude": "38.7786954",
+        "id": "AA_64"
+      },
+      {
+        "name": "Kera",
+        "latitude": "8.9847803",
+        "longitude": "38.7502416",
+        "id": "AA_65"
+      },
+      {
+        "name": "Ketena Hulet",
+        "latitude": "9.0115277",
+        "longitude": "38.7199391",
+        "id": "AA_66"
+      },
+      {
+        "name": "Kirkos",
+        "latitude": "9.0023309",
+        "longitude": "38.7564134",
+        "id": "AA_67"
+      },
+      {
+        "name": "Kolfe Keranio",
+        "latitude": "9.0164338",
+        "longitude": "38.7171956",
+        "id": "AA_68"
+      },
+      {
+        "name": "Kolfe Keranyo",
+        "latitude": "9.0050332",
+        "longitude": "38.6873969",
+        "id": "AA_69"
+      },
+      {
+        "name": "Kolfe Tiwan",
+        "latitude": "9.0443597",
+        "longitude": "38.7183110",
+        "id": "AA_70"
+      },
+      {
+        "name": "Korech Tera",
+        "latitude": "9.0260469",
+        "longitude": "38.7371227",
+        "id": "AA_71"
+      },
+      {
+        "name": "Kotebe",
+        "latitude": "9.0371282",
+        "longitude": "38.8398518",
+        "id": "AA_72"
+      },
+      {
+        "name": "La Gare (Legahar)",
+        "latitude": "9.0117269",
+        "longitude": "38.7530235",
+        "id": "AA_73"
+      },
+      {
+        "name": "Lafto",
+        "latitude": "8.9470390",
+        "longitude": "38.7443119",
+        "id": "AA_74"
+      },
+      {
+        "name": "Lancha",
+        "latitude": "8.9896160",
+        "longitude": "38.7597577",
+        "id": "AA_75"
+      },
+      {
+        "name": "Lebu",
+        "latitude": "8.9611369",
+        "longitude": "38.7254213",
+        "id": "AA_76"
+      },
+      {
+        "name": "Leg Taffo",
+        "latitude": "9.0419211",
+        "longitude": "38.8609587",
+        "id": "AA_77"
+      },
+      {
+        "name": "Lekwuanda",
+        "latitude": "9.0333773",
+        "longitude": "38.7083540",
+        "id": "AA_78"
+      },
+      {
+        "name": "Lideta",
+        "latitude": "9.0195026",
+        "longitude": "38.7304012",
+        "id": "AA_79"
+      },
+      {
+        "name": "Lideta",
+        "latitude": "9.0110809",
+        "longitude": "38.7366684",
+        "id": "AA_80"
+      },
+      {
+        "name": "Mechare Meda",
+        "latitude": "8.9967447",
+        "longitude": "38.7353040",
+        "id": "AA_81"
+      },
+      {
+        "name": "Medhanialem",
+        "latitude": "9.0518019",
+        "longitude": "38.7215543",
+        "id": "AA_82"
+      },
+      {
+        "name": "Megenagna",
+        "latitude": "9.0196149",
+        "longitude": "38.8016732",
+        "id": "AA_83"
+      },
+      {
+        "name": "Mekanisa",
+        "latitude": "8.9719137",
+        "longitude": "38.7305307",
+        "id": "AA_84"
+      },
+      {
+        "name": "Mekanisa Abo",
+        "latitude": "8.9827397",
+        "longitude": "38.7346037",
+        "id": "AA_85"
+      },
+      {
+        "name": "Menahereya Kazanchis",
+        "latitude": "9.0202903",
+        "longitude": "38.7677037",
+        "id": "AA_86"
+      },
+      {
+        "name": "Mennen",
+        "latitude": "9.0514054",
+        "longitude": "38.7588113",
+        "id": "AA_87"
+      },
+      {
+        "name": "Mentaf Tera",
+        "latitude": "9.0317311",
+        "longitude": "38.7405611",
+        "id": "AA_88"
+      },
+      {
+        "name": "Mesalemiya",
+        "latitude": "9.0338161",
+        "longitude": "38.7249623",
+        "id": "AA_89"
+      },
+      {
+        "name": "Meshuwalekiya",
+        "latitude": "9.0076487",
+        "longitude": "38.7587009",
+        "id": "AA_90"
+      },
+      {
+        "name": "Meskel Flower",
+        "latitude": "8.9880118",
+        "longitude": "38.7642638",
+        "id": "AA_91"
+      },
+      {
+        "name": "Mesob Tera",
+        "latitude": "9.0277642",
+        "longitude": "38.7368036",
+        "id": "AA_92"
+      },
+      {
+        "name": "Mexico",
+        "latitude": "9.0103877",
+        "longitude": "38.7445490",
+        "id": "AA_93"
+      },
+      {
+        "name": "Military Tera",
+        "latitude": "9.0317475",
+        "longitude": "38.7387652",
+        "id": "AA_94"
+      },
+      {
+        "name": "Minalesh Tera",
+        "latitude": "9.0257602",
+        "longitude": "38.7369512",
+        "id": "AA_95"
+      },
+      {
+        "name": "Mobil",
+        "latitude": "9.0016374",
+        "longitude": "38.7187643",
+        "id": "AA_96"
+      },
+      {
+        "name": "Molla Maru",
+        "latitude": "9.0227308",
+        "longitude": "38.7355249",
+        "id": "AA_97"
+      },
+      {
+        "name": "Nefas Silk-Lafto",
+        "latitude": "8.9577358",
+        "longitude": "38.7274968",
+        "id": "AA_98"
+      },
+      {
+        "name": "Olympia",
+        "latitude": "9.0039145",
+        "longitude": "38.7681189",
+        "id": "AA_99"
+      },
+      {
+        "name": "Paster",
+        "latitude": "9.0463648",
+        "longitude": "38.7318682",
+        "id": "AA_100"
+      },
+      {
+        "name": "Piassa (piazza)",
+        "latitude": "9.0336984",
+        "longitude": "38.7547538",
+        "id": "AA_101"
+      },
+      {
+        "name": "Posta Bet",
+        "latitude": "9.0215640",
+        "longitude": "38.7530961",
+        "id": "AA_102"
+      },
+      {
+        "name": "Quasmeda",
+        "latitude": "9.0378545",
+        "longitude": "38.7273720",
+        "id": "AA_103"
+      },
+      {
+        "name": "Ras Mekonnen Deldey",
+        "latitude": "9.0396701",
+        "longitude": "38.7563453",
+        "id": "AA_104"
+      },
+      {
+        "name": "Repi",
+        "latitude": "8.9781236",
+        "longitude": "38.6839695",
+        "id": "AA_105"
+      },
+      {
+        "name": "Riche;Embuway Mesk Adarash Bowling",
+        "latitude": "9.0027652",
+        "longitude": "38.7604314",
+        "id": "AA_106"
+      },
+      {
+        "name": "Rufael",
+        "latitude": "9.0588840",
+        "longitude": "38.7274260",
+        "id": "AA_107"
+      },
+      {
+        "name": "Ruwanda",
+        "latitude": "8.9917947",
+        "longitude": "38.7793214",
+        "id": "AA_108"
+      },
+      {
+        "name": "Sarbet",
+        "latitude": "8.9943201",
+        "longitude": "38.7377689",
+        "id": "AA_109"
+      },
+      {
+        "name": "Saris",
+        "latitude": "8.9532491",
+        "longitude": "38.7636211",
+        "id": "AA_110"
+      },
+      {
+        "name": "Saris Abo",
+        "latitude": "8.9449790",
+        "longitude": "38.7680780",
+        "id": "AA_111"
+      },
+      {
+        "name": "Saten Tera",
+        "latitude": "9.0320302",
+        "longitude": "38.7349734",
+        "id": "AA_112"
+      },
+      {
+        "name": "Sebara Babur",
+        "latitude": "9.0387209",
+        "longitude": "38.7481905",
+        "id": "AA_113"
+      },
+      {
+        "name": "Sebategna",
+        "latitude": "9.0291731",
+        "longitude": "38.7329364",
+        "id": "AA_114"
+      },
+      {
+        "name": "Sehan Tera",
+        "latitude": "9.0314166",
+        "longitude": "38.7354943",
+        "id": "AA_115"
+      },
+      {
+        "name": "Semien Mezegaja",
+        "latitude": "9.0533673",
+        "longitude": "38.7423862",
+        "id": "AA_116"
+      },
+      {
+        "name": "Sengatera",
+        "latitude": "9.0149097",
+        "longitude": "38.7469587",
+        "id": "AA_117"
+      },
+      {
+        "name": "Serategna Sefer",
+        "latitude": "9.0320404",
+        "longitude": "38.7558740",
+        "id": "AA_118"
+      },
+      {
+        "name": "Shanta Tera",
+        "latitude": "9.0311230",
+        "longitude": "38.7393048",
+        "id": "AA_119"
+      },
+      {
+        "name": "Sheh Ojele (Shegole meda)",
+        "latitude": "9.0629925",
+        "longitude": "38.7203505",
+        "id": "AA_120"
+      },
+      {
+        "name": "Shekela Tera",
+        "latitude": "9.0257509",
+        "longitude": "38.7379213",
+        "id": "AA_121"
+      },
+      {
+        "name": "Shema Tera",
+        "latitude": "9.0283706",
+        "longitude": "38.7366320",
+        "id": "AA_122"
+      },
+      {
+        "name": "Shera Tera",
+        "latitude": "9.0307658",
+        "longitude": "38.7359022",
+        "id": "AA_123"
+      },
+      {
+        "name": "Shero Meda",
+        "latitude": "9.0605328",
+        "longitude": "38.7613693",
+        "id": "AA_124"
+      },
+      {
+        "name": "Shola",
+        "latitude": "9.0482558",
+        "longitude": "38.7463508",
+        "id": "AA_125"
+      },
+      {
+        "name": "Sidamo Tera",
+        "latitude": "9.0294770",
+        "longitude": "38.7410728",
+        "id": "AA_126"
+      },
+      {
+        "name": "Somale Tera",
+        "latitude": "9.0305658",
+        "longitude": "38.7453494",
+        "id": "AA_127"
+      },
+      {
+        "name": "Soste Kuter Mazoria (Total)",
+        "latitude": "8.9927294",
+        "longitude": "38.7171514",
+        "id": "AA_128"
+      },
+      {
+        "name": "Sunshine Real state",
+        "latitude": "9.0319220",
+        "longitude": "38.8511537",
+        "id": "AA_129"
+      },
+      {
+        "name": "Taliyan Sefer",
+        "latitude": "9.0362835",
+        "longitude": "38.7474715",
+        "id": "AA_130"
+      },
+      {
+        "name": "Tekelehaymanot",
+        "latitude": "9.0285367",
+        "longitude": "38.7434123",
+        "id": "AA_131"
+      },
+      {
+        "name": "Tor Hiylloch",
+        "latitude": "9.0114846",
+        "longitude": "38.7241029",
+        "id": "AA_132"
+      },
+      {
+        "name": "Urael",
+        "latitude": "9.0109373",
+        "longitude": "38.7750119",
+        "id": "AA_133"
+      },
+      {
+        "name": "Vatican",
+        "latitude": "8.9896220",
+        "longitude": "38.7373242",
+        "id": "AA_134"
+      },
+      {
+        "name": "Webe Berha",
+        "latitude": "9.0410344",
+        "longitude": "38.7540035",
+        "id": "AA_135"
+      },
+      {
+        "name": "Wello Sefer",
+        "latitude": "8.9934694",
+        "longitude": "38.7745580",
+        "id": "AA_136"
+      },
+      {
+        "name": "Werk Tera",
+        "latitude": "9.0322322",
+        "longitude": "38.7370130",
+        "id": "AA_137"
+      },
+      {
+        "name": "Winget",
+        "latitude": "9.0559194",
+        "longitude": "38.7132567",
+        "id": "AA_138"
+      },
+      {
+        "name": "Yeka",
+        "latitude": "9.0499765",
+        "longitude": "38.8339605",
+        "id": "AA_139"
+      },
+      {
+        "name": "Yeka",
+        "latitude": "9.0243483",
+        "longitude": "38.7988485",
+        "id": "AA_140"
+      },
+      {
+        "name": "Yohannes",
+        "latitude": "9.0428809",
+        "longitude": "38.7457221",
+        "id": "AA_141"
+      },
+      {
+        "name": "Zenebework",
+        "latitude": "8.9871126",
+        "longitude": "38.7078010",
+        "id": "AA_142"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Afar Region",
+    "state_code": "AF",
+    "latitude": "11.75593880",
+    "longitude": "40.95868800",
+    "type": null,
+    "cities": [
+      {
+        "id": 38589,
+        "name": "Administrative Zone 2",
+        "latitude": "13.68513000",
+        "longitude": "40.05615000"
+      },
+      {
+        "id": 38590,
+        "name": "Administrative Zone 3",
+        "latitude": "10.00902000",
+        "longitude": "40.47394000"
+      },
+      {
+        "id": 38595,
+        "name": "Asaita",
+        "latitude": "11.56838000",
+        "longitude": "41.43869000"
+      },
+      {
+        "id": 38729,
+        "name": "Awash",
+        "latitude": "8.98333000",
+        "longitude": "40.16667000"
+      },
+      {
+        "id": 38624,
+        "name": "Dubti",
+        "latitude": "11.73292000",
+        "longitude": "41.08200000"
+      },
+      {
+        "id": 38637,
+        "name": "Gewane",
+        "latitude": "10.16658000",
+        "longitude": "40.64689000"
+      },
+      {
+        "id": 38691,
+        "name": "Semera",
+        "latitude": "11.79342000",
+        "longitude": "41.00578000"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amhara Region",
+    "state_code": "AM",
+    "latitude": "11.34942470",
+    "longitude": "37.97845850",
+    "type": null,
+    "cities": [
+      {
+        "id": 38585,
+        "name": "Abomsa",
+        "latitude": "9.98333000",
+        "longitude": "39.98333000"
+      },
+      {
+        "id": 38586,
+        "name": "Addiet Canna",
+        "latitude": "11.26667000",
+        "longitude": "37.48333000"
+      },
+      {
+        "id": 38722,
+        "name": "Adis Zemen",
+        "latitude": "12.11667000",
+        "longitude": "37.78333000"
+      },
+      {
+        "id": 38598,
+        "name": "Bahir Dar",
+        "latitude": "11.59364000",
+        "longitude": "37.39077000"
+      },
+      {
+        "id": 38600,
+        "name": "Bati",
+        "latitude": "11.19152000",
+        "longitude": "40.01675000"
+      },
+      {
+        "id": 38604,
+        "name": "Bichena",
+        "latitude": "10.45000000",
+        "longitude": "38.20000000"
+      },
+      {
+        "id": 38608,
+        "name": "Bure",
+        "latitude": "10.70000000",
+        "longitude": "37.06667000"
+      },
+      {
+        "id": 38610,
+        "name": "Dabat",
+        "latitude": "12.98417000",
+        "longitude": "37.76500000"
+      },
+      {
+        "id": 38611,
+        "name": "Debark",
+        "latitude": "13.15611000",
+        "longitude": "37.89806000"
+      },
+      {
+        "id": 38612,
+        "name": "Debre Birhan",
+        "latitude": "9.67954000",
+        "longitude": "39.53262000"
+      },
+      {
+        "id": 38613,
+        "name": "Debre Markos",
+        "latitude": "10.35000000",
+        "longitude": "37.73333000"
+      },
+      {
+        "id": 38614,
+        "name": "Debre Sina",
+        "latitude": "9.84752000",
+        "longitude": "39.76027000"
+      },
+      {
+        "id": 38615,
+        "name": "Debre Tabor",
+        "latitude": "11.85000000",
+        "longitude": "38.01667000"
+      },
+      {
+        "id": 38616,
+        "name": "Debre Werk",
+        "latitude": "10.66667000",
+        "longitude": "38.16667000"
+      },
+      {
+        "id": 38619,
+        "name": "Dejen",
+        "latitude": "10.16667000",
+        "longitude": "38.13333000"
+      },
+      {
+        "id": 38621,
+        "name": "Dese",
+        "latitude": "11.13333000",
+        "longitude": "39.63333000"
+      },
+      {
+        "id": 38631,
+        "name": "Finote Selam",
+        "latitude": "10.70000000",
+        "longitude": "37.26667000"
+      },
+      {
+        "id": 38642,
+        "name": "Gondar",
+        "latitude": "12.60000000",
+        "longitude": "37.46667000"
+      },
+      {
+        "id": 38664,
+        "name": "Kemise",
+        "latitude": "10.71668000",
+        "longitude": "39.86997000"
+      },
+      {
+        "id": 38667,
+        "name": "Kombolcha",
+        "latitude": "11.08155000",
+        "longitude": "39.74339000"
+      },
+      {
+        "id": 38671,
+        "name": "Lalibela",
+        "latitude": "12.03219000",
+        "longitude": "39.04756000"
+      },
+      {
+        "id": 38686,
+        "name": "North Shewa Zone",
+        "latitude": "9.76900000",
+        "longitude": "39.66800000"
+      },
+      {
+        "id": 38688,
+        "name": "North Wollo Zone",
+        "latitude": "11.92000000",
+        "longitude": "39.10000000"
+      },
+      {
+        "id": 38689,
+        "name": "Robit",
+        "latitude": "12.01667000",
+        "longitude": "39.63333000"
+      },
+      {
+        "id": 38701,
+        "name": "South Gondar Zone",
+        "latitude": "11.83850000",
+        "longitude": "38.09954000"
+      },
+      {
+        "id": 38702,
+        "name": "South Wollo Zone",
+        "latitude": "11.00000000",
+        "longitude": "39.25000000"
+      },
+      {
+        "id": 38708,
+        "name": "Wag Hemra Zone",
+        "latitude": "12.76500000",
+        "longitude": "38.84300000"
+      },
+      {
+        "id": 38712,
+        "name": "Were alu",
+        "latitude": "10.58964000",
+        "longitude": "39.43767000"
+      },
+      {
+        "id": 38713,
+        "name": "Werota",
+        "latitude": "11.91667000",
+        "longitude": "37.70000000"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Benishangul-Gumuz Region",
+    "state_code": "BE",
+    "latitude": "10.78028890",
+    "longitude": "35.56578620",
+    "type": null,
+    "cities": [
+      {
+        "id": 38596,
+        "name": "Asosa",
+        "latitude": "10.00000000",
+        "longitude": "34.50000000"
+      },
+      {
+        "id": 38679,
+        "name": "Metekel",
+        "latitude": "10.42673000",
+        "longitude": "35.71975000"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dire Dawa",
+    "state_code": "DD",
+    "latitude": "9.60087470",
+    "longitude": "41.85014200",
+    "type": null,
+    "cities": [
+      {
+        "id": 38622,
+        "name": "Dire Dawa",
+        "latitude": "9.59306000",
+        "longitude": "41.86611000"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Gambela Region",
+    "state_code": "GA",
+    "latitude": "7.92196870",
+    "longitude": "34.15319470",
+    "type": null,
+    "cities": [
+      {
+        "id": 38588,
+        "name": "Administrative Zone 1",
+        "latitude": "8.14699000",
+        "longitude": "33.97335000"
+      },
+      {
+        "id": 38632,
+        "name": "Gambela",
+        "latitude": "8.25000000",
+        "longitude": "34.58333000"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Harari Region",
+    "state_code": "HA",
+    "latitude": "9.31486600",
+    "longitude": "42.19677160",
+    "type": null,
+    "cities": [
+      {
+        "id": 38650,
+        "name": "Harar",
+        "latitude": "9.31387000",
+        "longitude": "42.11815000"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Oromia Region",
+    "state_code": "OR",
+    "latitude": "7.54603770",
+    "longitude": "40.63468510",
+    "type": null,
+    "cities": [
+      {
+        "id": 38723,
+        "name": "Adis Alem",
+        "latitude": "9.03333000",
+        "longitude": "38.40000000"
+      },
+      {
+        "id": 38724,
+        "name": "Agaro",
+        "latitude": "7.85000000",
+        "longitude": "36.65000000"
+      },
+      {
+        "id": 38594,
+        "name": "Arsi Zone",
+        "latitude": "7.50000000",
+        "longitude": "39.50000000"
+      },
+      {
+        "id": 38726,
+        "name": "Asasa",
+        "latitude": "7.10000000",
+        "longitude": "39.20000000"
+      },
+      {
+        "id": 38727,
+        "name": "Asbe Teferi",
+        "latitude": "9.08569000",
+        "longitude": "40.86708000"
+      },
+      {
+        "id": 38601,
+        "name": "Bedele",
+        "latitude": "8.45600000",
+        "longitude": "36.35302000"
+      },
+      {
+        "id": 38602,
+        "name": "Bedesa",
+        "latitude": "8.90000000",
+        "longitude": "40.78333000"
+      },
+      {
+        "id": 38605,
+        "name": "Bishoftu",
+        "latitude": "8.75225000",
+        "longitude": "38.97846000"
+      },
+      {
+        "id": 38617,
+        "name": "Deder",
+        "latitude": "9.31168000",
+        "longitude": "41.44301000"
+      },
+      {
+        "id": 38620,
+        "name": "Dembi Dolo",
+        "latitude": "8.53333000",
+        "longitude": "34.80000000"
+      },
+      {
+        "id": 38623,
+        "name": "Dodola",
+        "latitude": "6.98333000",
+        "longitude": "39.18333000"
+      },
+      {
+        "id": 38626,
+        "name": "East Harerghe Zone",
+        "latitude": "8.70114000",
+        "longitude": "42.00241000"
+      },
+      {
+        "id": 38627,
+        "name": "East Shewa Zone",
+        "latitude": "8.21353000",
+        "longitude": "38.84809000"
+      },
+      {
+        "id": 38628,
+        "name": "East Wellega Zone",
+        "latitude": "9.51928000",
+        "longitude": "36.75762000"
+      },
+      {
+        "id": 38630,
+        "name": "Fiche",
+        "latitude": "9.80000000",
+        "longitude": "38.73333000"
+      },
+      {
+        "id": 38633,
+        "name": "Gebre Guracha",
+        "latitude": "9.80000000",
+        "longitude": "38.40000000"
+      },
+      {
+        "id": 38646,
+        "name": "Gedo",
+        "latitude": "9.01667000",
+        "longitude": "37.45000000"
+      },
+      {
+        "id": 38635,
+        "name": "Gelemso",
+        "latitude": "8.81667000",
+        "longitude": "40.51667000"
+      },
+      {
+        "id": 38636,
+        "name": "Genet",
+        "latitude": "9.06667000",
+        "longitude": "38.50000000"
+      },
+      {
+        "id": 38638,
+        "name": "Gimbi",
+        "latitude": "9.17031000",
+        "longitude": "35.83491000"
+      },
+      {
+        "id": 38639,
+        "name": "Ginir",
+        "latitude": "7.13952000",
+        "longitude": "40.71083000"
+      },
+      {
+        "id": 38640,
+        "name": "Goba",
+        "latitude": "7.01667000",
+        "longitude": "39.98333000"
+      },
+      {
+        "id": 38643,
+        "name": "Gore",
+        "latitude": "8.15000000",
+        "longitude": "35.53333000"
+      },
+      {
+        "id": 38644,
+        "name": "Guji Zone",
+        "latitude": "5.58800000",
+        "longitude": "39.06700000"
+      },
+      {
+        "id": 38654,
+        "name": "Hagere Hiywet",
+        "latitude": "8.98333000",
+        "longitude": "37.85000000"
+      },
+      {
+        "id": 38649,
+        "name": "Hagere Maryam",
+        "latitude": "5.63418000",
+        "longitude": "38.23603000"
+      },
+      {
+        "id": 38656,
+        "name": "Hirna",
+        "latitude": "9.21667000",
+        "longitude": "41.10000000"
+      },
+      {
+        "id": 38653,
+        "name": "Huruta",
+        "latitude": "8.15000000",
+        "longitude": "39.35000000"
+      },
+      {
+        "id": 38657,
+        "name": "Illubabor Zone",
+        "latitude": "8.27526000",
+        "longitude": "35.75596000"
+      },
+      {
+        "id": 38660,
+        "name": "Jimma",
+        "latitude": "7.67344000",
+        "longitude": "36.83441000"
+      },
+      {
+        "id": 38661,
+        "name": "Jimma Zone",
+        "latitude": "7.66667000",
+        "longitude": "37.00000000"
+      },
+      {
+        "id": 38665,
+        "name": "Kibre Mengist",
+        "latitude": "5.88333000",
+        "longitude": "38.98333000"
+      },
+      {
+        "id": 38666,
+        "name": "Kofele",
+        "latitude": "7.06667000",
+        "longitude": "38.78333000"
+      },
+      {
+        "id": 38682,
+        "name": "Mega",
+        "latitude": "4.05000000",
+        "longitude": "38.30000000"
+      },
+      {
+        "id": 38677,
+        "name": "Mendi",
+        "latitude": "9.80000000",
+        "longitude": "35.10000000"
+      },
+      {
+        "id": 38678,
+        "name": "Metahara",
+        "latitude": "8.90000000",
+        "longitude": "39.91667000"
+      },
+      {
+        "id": 38680,
+        "name": "Metu",
+        "latitude": "8.30000000",
+        "longitude": "35.58333000"
+      },
+      {
+        "id": 38681,
+        "name": "Mojo",
+        "latitude": "8.58679000",
+        "longitude": "39.12111000"
+      },
+      {
+        "id": 38684,
+        "name": "Nazret",
+        "latitude": "8.55000000",
+        "longitude": "39.26667000"
+      },
+      {
+        "id": 38685,
+        "name": "Nejo",
+        "latitude": "9.50000000",
+        "longitude": "35.50000000"
+      },
+      {
+        "id": 38687,
+        "name": "North Shewa Zone",
+        "latitude": "9.66915000",
+        "longitude": "38.81240000"
+      },
+      {
+        "id": 38690,
+        "name": "Sebeta",
+        "latitude": "8.91667000",
+        "longitude": "38.61667000"
+      },
+      {
+        "id": 38692,
+        "name": "Sendafa",
+        "latitude": "9.15203000",
+        "longitude": "39.02335000"
+      },
+      {
+        "id": 38693,
+        "name": "Shakiso",
+        "latitude": "5.76494000",
+        "longitude": "38.91006000"
+      },
+      {
+        "id": 38694,
+        "name": "Shambu",
+        "latitude": "9.56667000",
+        "longitude": "37.10000000"
+      },
+      {
+        "id": 38695,
+        "name": "Shashemene",
+        "latitude": "7.20000000",
+        "longitude": "38.60000000"
+      },
+      {
+        "id": 38699,
+        "name": "Sirre",
+        "latitude": "8.31667000",
+        "longitude": "39.48333000"
+      },
+      {
+        "id": 38706,
+        "name": "Tulu Bolo",
+        "latitude": "8.66667000",
+        "longitude": "38.21667000"
+      },
+      {
+        "id": 38709,
+        "name": "Waliso",
+        "latitude": "8.53417000",
+        "longitude": "37.96515000"
+      },
+      {
+        "id": 38711,
+        "name": "Wenji",
+        "latitude": "8.45000000",
+        "longitude": "39.28333000"
+      },
+      {
+        "id": 38714,
+        "name": "West Harerghe Zone",
+        "latitude": "8.67245000",
+        "longitude": "40.84885000"
+      },
+      {
+        "id": 38715,
+        "name": "West Wellega Zone",
+        "latitude": "9.17283000",
+        "longitude": "35.05279000"
+      },
+      {
+        "id": 38717,
+        "name": "Yabelo",
+        "latitude": "4.88333000",
+        "longitude": "38.08333000"
+      },
+      {
+        "id": 38720,
+        "name": "Ziway",
+        "latitude": "7.93333000",
+        "longitude": "38.71667000"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Somali Region",
+    "state_code": "SO",
+    "latitude": "6.66122930",
+    "longitude": "43.79084530",
+    "type": null,
+    "cities": [
+      {
+        "id": 38591,
+        "name": "Afder Zone",
+        "latitude": "5.25000000",
+        "longitude": "43.00000000"
+      },
+      {
+        "id": 38618,
+        "name": "Degehabur Zone",
+        "latitude": "8.25000000",
+        "longitude": "43.75000000"
+      },
+      {
+        "id": 38641,
+        "name": "Gode Zone",
+        "latitude": "6.00000000",
+        "longitude": "43.75000000"
+      },
+      {
+        "id": 38659,
+        "name": "Jijiga",
+        "latitude": "9.35000000",
+        "longitude": "42.80000000"
+      },
+      {
+        "id": 38673,
+        "name": "Liben zone",
+        "latitude": "4.75000000",
+        "longitude": "40.50000000"
+      },
+      {
+        "id": 38697,
+        "name": "Shinile Zone",
+        "latitude": "10.17097000",
+        "longitude": "41.83748000"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Southern Nations, Nationalities, and Peoples' Region",
+    "state_code": "SN",
+    "latitude": "6.51569110",
+    "longitude": "36.95410700",
+    "type": null,
+    "cities": [
+      {
+        "id": 38592,
+        "name": "Alaba Special Wereda",
+        "latitude": "7.45347000",
+        "longitude": "38.21189000"
+      },
+      {
+        "id": 38593,
+        "name": "Arba Minch",
+        "latitude": "6.03333000",
+        "longitude": "37.55000000"
+      },
+      {
+        "id": 38725,
+        "name": "Areka",
+        "latitude": "7.06667000",
+        "longitude": "37.70000000"
+      },
+      {
+        "id": 38599,
+        "name": "Bako",
+        "latitude": "5.78333000",
+        "longitude": "36.56667000"
+      },
+      {
+        "id": 38603,
+        "name": "Bench Maji Zone",
+        "latitude": "6.45994000",
+        "longitude": "35.30549000"
+      },
+      {
+        "id": 38606,
+        "name": "Boditi",
+        "latitude": "6.96667000",
+        "longitude": "37.86667000"
+      },
+      {
+        "id": 38607,
+        "name": "Bonga",
+        "latitude": "7.28333000",
+        "longitude": "36.23333000"
+      },
+      {
+        "id": 38609,
+        "name": "Butajira",
+        "latitude": "8.11667000",
+        "longitude": "38.36667000"
+      },
+      {
+        "id": 38625,
+        "name": "Dila",
+        "latitude": "6.41667000",
+        "longitude": "38.31667000"
+      },
+      {
+        "id": 38629,
+        "name": "Felege Neway",
+        "latitude": "6.30000000",
+        "longitude": "36.88333000"
+      },
+      {
+        "id": 38634,
+        "name": "Gedeo Zone",
+        "latitude": "6.12727000",
+        "longitude": "38.27716000"
+      },
+      {
+        "id": 38647,
+        "name": "Gidole",
+        "latitude": "5.65000000",
+        "longitude": "37.36667000"
+      },
+      {
+        "id": 38645,
+        "name": "Guraghe Zone",
+        "latitude": "8.25000000",
+        "longitude": "38.00000000"
+      },
+      {
+        "id": 38648,
+        "name": "Hadiya Zone",
+        "latitude": "7.50000000",
+        "longitude": "37.75000000"
+      },
+      {
+        "id": 38655,
+        "name": "Hagere Selam",
+        "latitude": "6.48333000",
+        "longitude": "38.51667000"
+      },
+      {
+        "id": 38651,
+        "name": "Hawassa",
+        "latitude": "7.06205000",
+        "longitude": "38.47635000"
+      },
+      {
+        "id": 38652,
+        "name": "Hosaina",
+        "latitude": "7.54978000",
+        "longitude": "37.85374000"
+      },
+      {
+        "id": 38662,
+        "name": "Jinka",
+        "latitude": "5.65000000",
+        "longitude": "36.65000000"
+      },
+      {
+        "id": 38670,
+        "name": "Kolito",
+        "latitude": "7.31667000",
+        "longitude": "38.08333000"
+      },
+      {
+        "id": 38663,
+        "name": "Kembata Alaba Tembaro Zone",
+        "latitude": "7.27039000",
+        "longitude": "37.77887000"
+      },
+      {
+        "id": 38668,
+        "name": "Konso",
+        "latitude": "5.25000000",
+        "longitude": "37.48333000"
+      },
+      {
+        "id": 38672,
+        "name": "Leku",
+        "latitude": "6.87309000",
+        "longitude": "38.44425000"
+      },
+      {
+        "id": 38674,
+        "name": "Lobuni",
+        "latitude": "4.83333000",
+        "longitude": "36.10000000"
+      },
+      {
+        "id": 38683,
+        "name": "Mizan Teferi",
+        "latitude": "6.99865000",
+        "longitude": "35.58879000"
+      },
+      {
+        "id": 38696,
+        "name": "Sheka Zone",
+        "latitude": "7.56166000",
+        "longitude": "35.40174000"
+      },
+      {
+        "id": 38698,
+        "name": "Sidama Zone",
+        "latitude": "6.71800000",
+        "longitude": "38.44800000"
+      },
+      {
+        "id": 38700,
+        "name": "Sodo",
+        "latitude": "6.86000000",
+        "longitude": "37.76159000"
+      },
+      {
+        "id": 38705,
+        "name": "Tippi",
+        "latitude": "7.20000000",
+        "longitude": "35.45000000"
+      },
+      {
+        "id": 38707,
+        "name": "Turmi",
+        "latitude": "4.96667000",
+        "longitude": "36.48333000"
+      },
+      {
+        "id": 38710,
+        "name": "Wendo",
+        "latitude": "6.60000000",
+        "longitude": "38.41667000"
+      },
+      {
+        "id": 38716,
+        "name": "Wolayita Zone",
+        "latitude": "6.84312000",
+        "longitude": "37.70051000"
+      },
+      {
+        "id": 38718,
+        "name": "Yem",
+        "latitude": "7.83333000",
+        "longitude": "37.50000000"
+      },
+      {
+        "id": 38719,
+        "name": "Yirga Alem",
+        "latitude": "6.75000000",
+        "longitude": "38.41667000"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tigray Region",
+    "state_code": "TI",
+    "latitude": "14.03233360",
+    "longitude": "38.31657250",
+    "type": null,
+    "cities": [
+      {
+        "id": 38721,
+        "name": "Adigrat",
+        "latitude": "14.27700000",
+        "longitude": "39.46200000"
+      },
+      {
+        "id": 38597,
+        "name": "Axum",
+        "latitude": "14.12109000",
+        "longitude": "38.72337000"
+      },
+      {
+        "id": 38658,
+        "name": "Inda Silas",
+        "latitude": "14.10307000",
+        "longitude": "38.28289000"
+      },
+      {
+        "id": 38669,
+        "name": "Korem",
+        "latitude": "12.50583000",
+        "longitude": "39.52278000"
+      },
+      {
+        "id": 38675,
+        "name": "Maychew",
+        "latitude": "12.78750000",
+        "longitude": "39.54222000"
+      },
+      {
+        "id": 38676,
+        "name": "Mek'ele",
+        "latitude": "13.49667000",
+        "longitude": "39.47528000"
+      },
+      {
+        "id": 38703,
+        "name": "Southeastern Tigray Zone",
+        "latitude": "13.24797000",
+        "longitude": "39.53156000"
+      },
+      {
+        "id": 38704,
+        "name": "Southern Tigray Zone",
+        "latitude": "12.96033000",
+        "longitude": "39.52831000"
+      }
+    ]
+  }
+]
